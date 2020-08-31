@@ -7,7 +7,7 @@ def game_hash
       colors: ["Black", "White"],
       players: [
         {
-          player_ name:"Alan Anderson", 
+          player_name:"Alan Anderson", 
           number: 0,
           shoe: 16,
           points: 22,
@@ -122,7 +122,7 @@ def game_hash
           blocks: 5,
           slam_dunks: 12
         }
-      }
+      ]
     ]
   }
 end
